@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>697084221293-6soljbvt1t8os7cqjnp7ujjj2u2kfki0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.697084221293-6soljbvt1t8os7cqjnp7ujjj2u2kfki0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD9aCN3_B7eXkZynWjCJL1Rq6wngr5yS08</string>
+	<key>GCM_SENDER_ID</key>
+	<string>697084221293</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.hofAppTest</string>
+	<key>PROJECT_ID</key>
+	<string>hof-app-209ae</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hof-app-209ae.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:697084221293:ios:85f365731d6314a270ec64</string>
+	<key>DATABASE_URL</key>
+	<string>https://hof-app-209ae.firebaseio.com</string>
+</dict>
+</plist>
